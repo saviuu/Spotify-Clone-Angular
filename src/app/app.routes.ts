@@ -4,7 +4,7 @@ import { Routes } from "@angular/router";
 export const AppRotas: Routes = [
   {
     path: '',
-    redirectTo: 'login',
+    redirectTo: 'player',
     pathMatch: 'full'
   },
   {
